@@ -1,0 +1,48 @@
+# Contributing Guidelines
+
+Thank you for considering contributing to our project! We welcome contributions from the community and are excited to have you onboard. Before you start, please take a moment to read these guidelines to help streamline the contribution process.
+
+## Code of Conduct
+
+Please note that this project has a [Code of Conduct](CODE_OF_CONDUCT.md). We expect all contributors to adhere to its terms. Please be respectful and considerate of others.
+
+## Getting Started
+
+Before you contribute, make sure you have:
+
+1. Created a GitHub account.
+2. Installed Git on your local machine.
+3. Forked the project repository on GitHub.
+4. Cloned your forked repository to your local machine.
+
+## Making Changes
+
+1. Create a new branch for your work: `git checkout -b your-branch-name`.
+2. Make your changes and test them thoroughly.
+3. Commit your changes: `git commit -m "Your descriptive commit message"`.
+4. Push to your fork on GitHub: `git push origin your-branch-name`.
+
+## Submitting Changes
+
+1. Go to your fork on GitHub.
+2. Create a pull request to the main project repository. Include a clear and concise description of your changes.
+3. Discuss and make any necessary adjustments as requested by project maintainers.
+4. Once your pull request is approved, it will be merged into the main project.
+
+## Coding Standards
+
+- Follow the existing coding style in the project.
+- Keep your code clean and well-documented.
+- Test your code thoroughly.
+- Ensure your changes don't break existing functionality.
+
+## Reporting Issues
+
+If you encounter any issues or have ideas for improvements, please create an issue on our GitHub repository. Make sure to provide detailed information about the problem, including steps to reproduce it.
+
+## License
+
+By contributing to this project, you agree to license your work under the [Apache License 2.0](LICENSE).
+
+Thank you for your contribution!
+
